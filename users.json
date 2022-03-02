@@ -1,0 +1,34 @@
+[
+    {
+        "username": "shitterfart",
+        "firstName": "David",
+        "lastName": "Wamai",
+        "id": "e484aa2b-635f-4ca1-b3a2-f08f822d4f3f",
+        "age": "20",
+        "phoneNum": "803-666-6156"
+    },
+    {
+        "username": "fartbigandhot",
+        "firstName": "Shash",
+        "lastName": "Comandur",
+        "id": "09045147-6909-447d-a2ca-786a35bd6fd4",
+        "age": "19",
+        "phoneNum": "803-555-6146"
+    },
+    {
+        "username": "pworddestroyer",
+        "firstName": "Andrew",
+        "lastName": "Paulen",
+        "id": "2c97eb66-d440-43f1-9dad-64c5eb82e76f",
+        "age": "19",
+        "phoneNum": "803-444-6136"
+    },
+    {
+        "username": "poopystinky",
+        "firstName": "Sophia",
+        "lastName": "Riley",
+        "id": "",
+        "age": "19",
+        "phoneNum": "803-333-6126"
+    }
+]

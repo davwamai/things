@@ -1,0 +1,17 @@
+[
+    {
+        "name": "",
+        "id": "",
+        "location":[
+            {
+            "city": "Apia",
+            "country": "Samoa",
+            "airportcode": "APW",
+            "continent": "South Pacific"
+            }
+        ],
+        "vacancy": true,
+        "numRooms": "50"
+    }
+
+]
