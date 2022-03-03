@@ -1,7 +1,7 @@
 [
     {
-        "name": "",
-        "id": "",
+        "name": "Mariott",
+        "id": "66b5a6f4-d534-4776-bb75-0fe19968d58b",
         "location":[
             {
             "city": "Apia",
@@ -12,6 +12,33 @@
         ],
         "vacancy": true,
         "numRooms": "50"
+    },
+    {
+        "name": "Hampton Inn.",
+        "id": "37485d34-28f2-4abf-be83-77ef19031d17",
+        "location":[
+            {
+                "city": "Nanisivik",
+                "country": "Canada",
+                "airportcode": "YSR",
+                "continent": "North America"
+            }
+        ],
+        "vacancy": true,
+        "numRooms": "85"
+    },
+    {
+        "name": "Best Western",
+        "id": "9b5875ea-fa16-45d7-b665-5391f1455cab",
+        "location":[
+            {
+                "city": "Vero Beach/Ft. Pierce, FL",
+                "country": "USA",
+                "airportcode": "VRB",
+                "continent": "North America"
+            }
+        ],
+        "vacancy": true,
+        "numRooms": "125"
     }
-
 ]

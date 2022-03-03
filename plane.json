@@ -1,8 +1,27 @@
 [
     {
-        "plane-id": "...",
+        "plane-type": "Boeing 747",
+        "plane-id": "18629E",
         "capacity": "416",
-        "departing": "an airport",
-        "arriving": "another airport"
+        "availible-economy": "175",
+        "available-buisness": "141",
+        "available-firstclass": "100"
+    },
+    {
+        "plane-type": "Boeing 737",
+        "plane-id": "091918C",
+        "capacity": "215",
+        "availible-economy": "100",
+        "available-buisness": "100",
+        "available-firstclass": "15"
+    },
+    {
+        "plane-type": "Boeing 787-9 Dreamliner",
+        "plane-id": "091701A",
+        "capacity": "290",
+        "availible-economy": "150",
+        "available-buisness": "100",
+        "available-firstclass": "40"
     }
+    
 ]
